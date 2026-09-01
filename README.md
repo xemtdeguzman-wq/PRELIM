@@ -1,62 +1,102 @@
 <div align="center">
 
-# 🎨 GE 4120
-# PRESENTATION DESIGN PORTFOLIO
+# 🌷✨ GE 4120 ✨🌷
 
-### A Collection of Presentation and Visual Design Activities
+## **PRESENTATION DESIGN PORTFOLIO**
+
+### 🎀 *Design • Create • Communicate* 🎀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=180&section=header&text=GE%204120&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<br>
+
+### 🌸 **WELCOME TO MY CREATIVE SPACE** 🌸
+
+A collection of my **presentation design, visual communication,
+color, typography, and infographic projects** for GE 4120.
+
+> 💕 *Turning ideas into visuals, one design at a time.* 💕
 
 <br>
 
 ---
 
-## 📚 ACTIVITIES
+## 🎀 MY PORTFOLIO
 
-| | Activity | Focus |
-|---|---|---|
-| 🎯 | **Activity 1** | Presentation Design Principles |
-| 🎨 | **Activity 2** | Color Palette and Typography |
-| 📱 | **Activity 3** | Social Media Infographics and Mini Project Documentation |
+|  🌷 | **ACTIVITY**    | 🎨 **FOCUS**                             |
+| :-: | :-------------- | :--------------------------------------- |
+|  🎯 | **Activity 01** | Presentation Design Principles           |
+|  🎨 | **Activity 02** | Color Palette & Typography               |
+|  📱 | **Activity 03** | Social Media Infographics & Mini Project |
+
+---
+
+<br>
+
+## 🧁 WHAT'S INSIDE?
+
+### 🎯 01 — Presentation Design Principles
+
+Exploring the fundamentals of effective presentation design through:
+
+`Visual Hierarchy` • `Contrast` • `Balance` • `Alignment`
+`Proximity` • `Repetition` • `Simplicity`
+
+---
+
+### 🎨 02 — Color Palette & Typography
+
+Exploring how **color and typography** influence communication, readability, mood, and visual consistency.
+
+🌷 Color Combinations
+🎀 Typography
+✨ Readability
+🩷 Visual Consistency
+
+---
+
+### 📱 03 — Social Media Infographics & Mini Project
+
+Creating engaging visual content while documenting the process of developing a **visual communication project**.
+
+📌 Infographic Design
+📱 Social Media Content
+🎨 Creative Process
+✨ Project Documentation
 
 ---
 
 <br>
 
-### ✨ DESIGN • CREATE • COMMUNICATE ✨
+## 🌸 DESIGN PHILOSOPHY
 
-This repository contains my activities and outputs for **GE 4120**,  
-showcasing the application of visual design principles,  
-color, typography, and effective communication.
+> **"Good design doesn't just look beautiful —
+> it communicates beautifully."** 🎀
 
-<br>
+My goal is to create designs that are:
 
----
-
-### 📂 PORTFOLIO CONTENT
-
-**01 — Presentation Design Principles**  
-Applying visual hierarchy, contrast, balance, alignment,  
-proximity, repetition, and simplicity.
-
-**02 — Color Palette and Typography**  
-Exploring color combinations, typography, readability,  
-and visual consistency.
-
-**03 — Social Media Infographics and Mini Project Documentation**  
-Creating engaging infographics and documenting the development  
-of a visual communication project.
-
-<br>
+🌷 **Creative**
+🎀 **Clear**
+✨ **Consistent**
+🩷 **Communicative**
 
 ---
 
-### 👤 STUDENT PORTFOLIO
+<br>
 
-**DE GUZMAN**
+## 💌 STUDENT PORTFOLIO
 
-**GE 4120**
+### **Xyza Elyne Mariz T. De Guzman**
+
+🎓 **GE 4120**
+🎨 **Presentation Design Portfolio**
 
 <br>
 
-☕ 🎨 📱
+`DESIGN` ♡ `CREATE` ♡ `COMMUNICATE`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=120&section=footer" width="100%"/>
 
 </div>
